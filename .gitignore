@@ -1,0 +1,10 @@
+# osx
+.DS_Store
+
+# python
+*.pyc
+__pycache__
+
+# dataset
+names/*.txt
+
